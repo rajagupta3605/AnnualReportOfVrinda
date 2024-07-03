@@ -4,7 +4,7 @@ Here, we will find out the insight of company and helps to growth n future.
 On the basis of some of the question I make chart with helps to visualize the data easily.
 Here are the question:
 1. Compare the sales and orders using single chart.
-2. Which month get the hifhest sales and orders.
+2. Which month get the highest sales and orders.
 3. Who purchased more - men or women in 2022?
 4. List to 10 state contributingg to the sales?
 5. Relation between age and gender based on number of orders.
